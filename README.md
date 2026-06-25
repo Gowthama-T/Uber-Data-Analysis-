@@ -197,6 +197,4 @@ MCA | Data Analyst | Tableau Developer
 - Data Analytics
 - Data Visualization
 
----
 
-## ⭐ If you found this project useful, please consider giving it a Star!
